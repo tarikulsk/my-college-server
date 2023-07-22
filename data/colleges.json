@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "collegeImage": "https://example.com/college1.jpg",
+        "collegeName": "ABC University",
+        "admissionDates": "August 2023",
+        "events": [
+            "Orientation Day",
+            "Annual Fest",
+            "Career Fair"
+        ],
+        "researchHistory": "Founded in 1950, ABC University has a rich research legacy in various fields.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Swimming"
+        ]
+    },
+    {
+        "id": 2,
+        "collegeImage": "https://example.com/college2.jpg",
+        "collegeName": "XYZ College",
+        "admissionDates": "September 2023",
+        "events": [
+            "Freshers' Party",
+            "Tech Symposium",
+            "Cultural Night"
+        ],
+        "researchHistory": "XYZ College is known for its cutting-edge research in science and technology.",
+        "sports": [
+            "Cricket",
+            "Tennis",
+            "Volleyball"
+        ]
+    },
+    {
+        "id": 3,
+        "collegeImage": "https://example.com/college3.jpg",
+        "collegeName": "PQR Institute",
+        "admissionDates": "July 2023",
+        "events": [
+            "Founder's Day",
+            "Literary Fest",
+            "Hackathon"
+        ],
+        "researchHistory": "PQR Institute has made significant contributions to social sciences and humanities research.",
+        "sports": [
+            "Hockey",
+            "Badminton",
+            "Athletics"
+        ]
+    },
+    {
+        "id": 4,
+        "collegeImage": "https://example.com/college4.jpg",
+        "collegeName": "EFG College",
+        "admissionDates": "November 2023",
+        "events": [
+            "Annual Sports Meet",
+            "Tech Expo",
+            "Cultural Extravaganza"
+        ],
+        "researchHistory": "EFG College has excelled in research related to environmental sustainability.",
+        "sports": [
+            "Basketball",
+            "Swimming",
+            "Tennis"
+        ]
+    },
+    {
+        "id": 5,
+        "collegeImage": "https://example.com/college5.jpg",
+        "collegeName": "RST Institute",
+        "admissionDates": "December 2023",
+        "events": [
+            "Orientation Day",
+            "Literary Symposium",
+            "Hackathon"
+        ],
+        "researchHistory": "RST Institute is a pioneer in research and development of computer science technologies.",
+        "sports": [
+            "Cricket",
+            "Football",
+            "Volleyball"
+        ]
+    },
+    {
+        "id": 6,
+        "collegeImage": "https://example.com/college6.jpg",
+        "collegeName": "UVW University",
+        "admissionDates": "January 2024",
+        "events": [
+            "Freshers' Party",
+            "Science Fair",
+            "Cultural Night"
+        ],
+        "researchHistory": "UVW University is known for its breakthrough research in medical sciences.",
+        "sports": [
+            "Badminton",
+            "Hockey",
+            "Athletics"
+        ]
+    },
+    {
+        "id": 7,
+        "collegeImage": "https://example.com/college7.jpg",
+        "collegeName": "IJK College",
+        "admissionDates": "February 2024",
+        "events": [
+            "Founder's Day",
+            "Music Festival",
+            "Career Fair"
+        ],
+        "researchHistory": "IJK College has a strong research background in the fields of business and economics.",
+        "sports": [
+            "Soccer",
+            "Table Tennis",
+            "Gymnastics"
+        ]
+    },
+    {
+        "id": 8,
+        "collegeImage": "https://example.com/college8.jpg",
+        "collegeName": "LMN University",
+        "admissionDates": "March 2024",
+        "events": [
+            "Graduation Ceremony",
+            "Tech Symposium",
+            "Literary Fest"
+        ],
+        "researchHistory": "LMN University is recognized for its contributions to arts and culture research.",
+        "sports": [
+            "Volleyball",
+            "Tennis",
+            "Swimming"
+        ]
+    },
+    {
+        "id": 9,
+        "collegeImage": "https://example.com/college9.jpg",
+        "collegeName": "OPQ Institute",
+        "admissionDates": "April 2024",
+        "events": [
+            "Annual Fest",
+            "Hackathon",
+            "Career Fair"
+        ],
+        "researchHistory": "OPQ Institute has made significant strides in research related to environmental studies.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Cricket"
+        ]
+    },
+    {
+        "id": 10,
+        "collegeImage": "https://example.com/college10.jpg",
+        "collegeName": "STU College",
+        "admissionDates": "May 2024",
+        "events": [
+            "Orientation Day",
+            "Tech Expo",
+            "Cultural Extravaganza"
+        ],
+        "researchHistory": "STU College is known for its research excellence in engineering and technology.",
+        "sports": [
+            "Badminton",
+            "Tennis",
+            "Hockey"
+        ]
+    }
+]
