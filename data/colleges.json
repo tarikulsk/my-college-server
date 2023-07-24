@@ -1,172 +1,101 @@
 [
     {
         "id": 1,
-        "collegeImage": "https://example.com/college1.jpg",
+        "collegeImage": "https://i.ibb.co/NSqTBW1/1.png",
         "collegeName": "ABC University",
         "admissionDates": "August 2023",
+        "admissionProcess": "Online application and entrance exam",
         "events": [
             "Orientation Day",
             "Annual Fest",
             "Career Fair"
         ],
+        "eventDetails": "Orientation Day =>  Date: August 15, 2023  ||  Annual Fest => Date: October 20-22, 2023  ||  Career Fair => Date: November 10, 2023",
         "researchHistory": "Founded in 1950, ABC University has a rich research legacy in various fields.",
-        "sports": [
-            "Football",
-            "Basketball",
-            "Swimming"
-        ]
+        "researchWorksDetails": "Notable research works include studies in medicine, technology, and social sciences.",
+        "sports": "Football  &  Basketball  &  Swimming",
+        "category": "top"
     },
     {
         "id": 2,
-        "collegeImage": "https://example.com/college2.jpg",
+        "collegeImage": "https://i.ibb.co/fFMqfnY/2.png",
         "collegeName": "XYZ College",
         "admissionDates": "September 2023",
+        "admissionProcess": "Submit application and interview",
         "events": [
             "Freshers' Party",
             "Tech Symposium",
             "Cultural Night"
         ],
+        "eventDetails": "Freshers' Party  => Date: September 5, 2023  ||  Tech Symposium => Date: October 15-17, 2023  || Cultural Night => Date: November 5, 2023",
+        "researchWorksDetails": "Key research areas include artificial intelligence, robotics, and renewable energy.",
         "researchHistory": "XYZ College is known for its cutting-edge research in science and technology.",
-        "sports": [
-            "Cricket",
-            "Tennis",
-            "Volleyball"
-        ]
+        "sports": "Cricket  &  Tennis  & Volleyball",
+        "category": "top"
     },
     {
         "id": 3,
-        "collegeImage": "https://example.com/college3.jpg",
+        "collegeImage": "https://i.ibb.co/X5P7NWN/3.png",
         "collegeName": "PQR Institute",
         "admissionDates": "July 2023",
+        "admissionProcess": "Merit-based admission",
         "events": [
             "Founder's Day",
             "Literary Fest",
             "Hackathon"
         ],
+        "eventDetails": "Founder's Day => Date: July 10, 2023  ||  Literary Fest => Date: August 25-27, 2023  ||   Hackathon => Date: September 15-16, 2023",
         "researchHistory": "PQR Institute has made significant contributions to social sciences and humanities research.",
-        "sports": [
-            "Hockey",
-            "Badminton",
-            "Athletics"
-        ]
+        "researchWorksDetails": "Prominent research areas include literature, philosophy, and cultural studies.",
+        "sports": "Hockey  &  Badminton  &  Athletics",
+        "category": "top"
     },
     {
         "id": 4,
-        "collegeImage": "https://example.com/college4.jpg",
+        "collegeImage": "https://i.ibb.co/5Fhbhwx/4.png",
         "collegeName": "EFG College",
         "admissionDates": "November 2023",
+        "admissionProcess": "Online application and interview",
         "events": [
-            "Annual Sports Meet",
-            "Tech Expo",
-            "Cultural Extravaganza"
+            "Welcome Party",
+            "Tech Summit",
+            "Cultural Festival"
         ],
+        "eventDetails": "Welcome Party => Date: November 5, 2023  ||  Tech Summit => Date: December 15-17, 2023  ||  Cultural Festival => Date: January 8-10, 2024",
+        "researchWorksDetails": "Prominent research areas include natural sciences, social sciences, and engineering.",
         "researchHistory": "EFG College has excelled in research related to environmental sustainability.",
-        "sports": [
-            "Basketball",
-            "Swimming",
-            "Tennis"
-        ]
+        "sports": "Basketball &  Swimming  &  Tennis"
     },
     {
         "id": 5,
-        "collegeImage": "https://example.com/college5.jpg",
+        "collegeImage": "https://i.ibb.co/L09GSsf/5.png",
         "collegeName": "RST Institute",
         "admissionDates": "December 2023",
+        "admissionProcess": "Entrance exam and interview",
+        "events": [
+            "Freshers' Party",
+            "Tech Expo",
+            "Cultural Extravaganza"
+        ],
+        "eventDetails": "Freshers' Party => Date: August 10, 2023  ||  Tech Expo => Date: September 15-17, 2023  ||  Cultural Extravaganza => Date: October 8, 2023",
+        "researchHistory": "RST College is known for its research contributions in science and technology.",
+        "researchWorksDetails": "Notable research areas include computer engineering, biotechnology, and chemistry.",
+        "sports": "Cricket  &  Football  &  Volleyball"
+    },
+    {
+        "id": 6,
+        "collegeImage": "https://i.ibb.co/cwNQJvt/6.png",
+        "collegeName": "UVW University",
+        "admissionDates": "January 2024",
+        "admissionProcess": "Submit application and interview",
         "events": [
             "Orientation Day",
             "Literary Symposium",
             "Hackathon"
         ],
-        "researchHistory": "RST Institute is a pioneer in research and development of computer science technologies.",
-        "sports": [
-            "Cricket",
-            "Football",
-            "Volleyball"
-        ]
-    },
-    {
-        "id": 6,
-        "collegeImage": "https://example.com/college6.jpg",
-        "collegeName": "UVW University",
-        "admissionDates": "January 2024",
-        "events": [
-            "Freshers' Party",
-            "Science Fair",
-            "Cultural Night"
-        ],
-        "researchHistory": "UVW University is known for its breakthrough research in medical sciences.",
-        "sports": [
-            "Badminton",
-            "Hockey",
-            "Athletics"
-        ]
-    },
-    {
-        "id": 7,
-        "collegeImage": "https://example.com/college7.jpg",
-        "collegeName": "IJK College",
-        "admissionDates": "February 2024",
-        "events": [
-            "Founder's Day",
-            "Music Festival",
-            "Career Fair"
-        ],
-        "researchHistory": "IJK College has a strong research background in the fields of business and economics.",
-        "sports": [
-            "Soccer",
-            "Table Tennis",
-            "Gymnastics"
-        ]
-    },
-    {
-        "id": 8,
-        "collegeImage": "https://example.com/college8.jpg",
-        "collegeName": "LMN University",
-        "admissionDates": "March 2024",
-        "events": [
-            "Graduation Ceremony",
-            "Tech Symposium",
-            "Literary Fest"
-        ],
-        "researchHistory": "LMN University is recognized for its contributions to arts and culture research.",
-        "sports": [
-            "Volleyball",
-            "Tennis",
-            "Swimming"
-        ]
-    },
-    {
-        "id": 9,
-        "collegeImage": "https://example.com/college9.jpg",
-        "collegeName": "OPQ Institute",
-        "admissionDates": "April 2024",
-        "events": [
-            "Annual Fest",
-            "Hackathon",
-            "Career Fair"
-        ],
-        "researchHistory": "OPQ Institute has made significant strides in research related to environmental studies.",
-        "sports": [
-            "Football",
-            "Basketball",
-            "Cricket"
-        ]
-    },
-    {
-        "id": 10,
-        "collegeImage": "https://example.com/college10.jpg",
-        "collegeName": "STU College",
-        "admissionDates": "May 2024",
-        "events": [
-            "Orientation Day",
-            "Tech Expo",
-            "Cultural Extravaganza"
-        ],
-        "researchHistory": "STU College is known for its research excellence in engineering and technology.",
-        "sports": [
-            "Badminton",
-            "Tennis",
-            "Hockey"
-        ]
+        "eventDetails": "Orientation Day => Date: September 1, 2023  ||  Literary Symposium => Date: October 5-7, 2023  ||  Hackathon => Date: November 12-13, 2023",
+        "researchHistory": "UVW University is recognized for its contributions to arts and humanities research.",
+        "researchWorksDetails": "Prominent research areas include literature, philosophy, and cultural studies.",
+        "sports": "Badminton  &  Hockey  &  Athletics"
     }
 ]
